@@ -1,0 +1,27 @@
+a tendencia de salvador e incertezas:
+Tendência por ano: 0.3192412190625397
+Incerteza: 0.058342240982881974
+
+tendencia de Fortaleza e incertezas:
+Tendência por ano: 0.15498710980961747cm/ano
+Incerteza: 0.033256096962790735cm/ano
+
+
+Tendencia de Imbituba e incertezas:
+Tendência por ano: 0.40031281447689837
+Incerteza: 0.08060482167141099
+
+Arraial do cabo
+Tendência por ano: 1.0096434484599557
+Incerteza: 0.7656081933547343
+
+Satana
+Tendência por ano: 0.34207805139301184
+Incerteza: 0.32039893412159615
+Belem
+Tendência por ano: -0.5688368378340173
+Incerteza: 2.058732067958467
+
+Caneneia
+Tendência por ano: 0.004320906329234284m/ano = 0.43cm/ano
+Incerteza: 0.00020107567148819057m/ano = 0,020cm/ano

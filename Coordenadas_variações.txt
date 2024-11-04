@@ -1,0 +1,695 @@
+Station:	APSA
+Status:	removed
+Long name:	APSA00BRA
+Location:	Santana, Brazil
+Networks:	RBMC
+Agencies:	IBGE
+Installed on:	2008-07-30
+In SIRGAS since:	2012-08-12
+Website:	https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/rede-geodesica/16258-rede-brasileira-de-monitoramento-continuo-dos-sistemas-gnss-rbmc.html?=&t=dados-diarios-e-situacao-operacional
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2012-08-19 - 2016-01-05
+
+Geocentric values
+X:	3999377.2905 ± 0.0011 m
+Y:	-4968443.1242 ± 0.0013 m
+Z:	-6662.7321 ± 0.0004 m
+
+Vx:	-0.0044 ± 0.0006 m/a
+Vy:	-0.0015 ± 0.0008 m/a
+Vz:	0.0118 ± 0.0002 m/a
+
+Ellipsoidal values
+Height:	-11.0620 ± 0.0016 m
+Latitude:	0° 3' 36.92088'' S ± 0.0009 m
+Longitude:	51°10'2.8938''W±0.0015m
+
+V-North:	0.0118 ± 0.0006 m/a
+V-East:	-0.0044 ± 0.0010 m/a
+V-Up:	-0.0016 ± 0.0007 m/a
+
+Solution:	
+Reference epoch:	
+Period:	2023-10-18 - 2023-10-18
+
+Geocentric values
+X:	
+Y:	
+Z:	
+
+Vx:	
+Vy:	
+Vz:	
+
+Ellipsoidal values
+Height:	
+Latitude:	
+Longitude:	
+
+V-North:	
+V-East:	
+V-Up:	
+
+For weekly coordinates please click here.
+Click on the image for enlarge it.
+
+tation:	MAPA
+Status:	removed
+Long name:	MAPA00BRA
+Location:	Macapa, Brazil
+Networks:	ITRF2014, RBMC, RIBaC
+Agencies:	IBGE, INCRA , DTCEA
+Installed on:	2003-11-22
+In SIRGAS since:	2006-01-01
+Website:	https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/rede-geodesica/16258-rede-brasileira-de-monitoramento-continuo-dos-sistemas-gnss-rbmc.html?=&t=dados-diarios-e-situacao-operacional
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2011-04-17 - 2017-01-21
+
+Geocentric values
+X:	4005461.1118 ± 0.0004 m
+Y:	-4963550.3460 ± 0.0005 m
+Z:	5162.4224 ± 0.0003 m
+
+Vx:	-0.0028 ± 0.0003 m/a
+Vy:	-0.0011 ± 0.0004 m/a
+Vz:	0.0125 ± 0.0002 m/a
+
+Ellipsoidal values
+Height:	-4.2337 ± 0.0013 m
+Latitude:	0° 2' 48.07464'' N ± 0.0008 m
+Longitude:	51°5'50.41428''W±0.0008m
+
+V-North:	0.0125 ± 0.0006 m/a
+V-East:	-0.0029 ± 0.0005 m/a
+V-Up:	-0.0009 ± 0.0006 m/a
+
+Solution:	
+Reference epoch:	
+Period:	2023-10-18 - 2023-10-18
+
+Geocentric values
+X:	
+Y:	
+Z:	
+
+Vx:	
+Vy:	
+Vz:	
+
+Ellipsoidal values
+Height:	
+Latitude:	
+Longitude:	
+
+V-North:	
+V-East:	
+V-Up:	
+
+For weekly coordinates please click here.
+Click on the image for enlarge it.
+
+
+
+
+Station:	BELE
+Status:	active
+Long name:	BELE00BRA
+Location:	Belem, Brazil
+Networks:	IGS, ITRF2014, RBMC, RIBaC
+Agencies:	IBGE, INCRA , SIPAM
+Installed on:	2003-11-19
+In SIRGAS since:	2004-01-01
+Website:	https://www.igs.org/imaps/station.php?id=BELE00BRA
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2011-04-17 - 2017-01-28
+
+Geocentric values
+X:	4228138.9903 ± 0.0004 m
+Y:	-4772752.1139 ± 0.0005 m
+Z:	-155761.1780 ± 0.0003 m
+
+Vx:	-0.0031 ± 0.0003 m/a
+Vy:	-0.0028 ± 0.0003 m/a
+Vz:	0.0134 ± 0.0002 m/a
+
+Ellipsoidal values
+Height:	9.0564 ± 0.0013 m
+Latitude:	1° 24' 31.65696'' S ± 0.0008 m
+Longitude:	48°27'45.18072''W±0.0008m
+
+V-North:	0.0134 ± 0.0006 m/a
+V-East:	-0.0042 ± 0.0005 m/a
+V-Up:	-0.0003 ± 0.0006 m/a
+
+Station:	FORT
+Status:	removed
+Long name:	FORT00BRA
+Location:	Fortaleza, Brazil
+Networks:	IGS14, ITRF2014
+Agencies:	NOAA-NGS, INPE
+Installed on:	1993-05-13
+In SIRGAS since:	1996-06-30
+Website:	https://www.igs.org/imaps/station.php?id=FORT00BRA
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR11P01
+Reference epoch:	2005
+Period:	2000-01-09 - 2006-04-08
+
+Geocentric values
+X:	4985386.5942 ± 0.0009 m
+Y:	-3954998.5994 ± 0.0007 m
+Z:	-428426.3732 ± 0.0003 m
+
+Vx:	0.0011 ± 0.0003 m/a
+Vy:	-0.0053 ± 0.0003 m/a
+Vz:	0.0122 ± 0.0003 m/a
+
+Ellipsoidal values
+Height:	19.4418 ± 0.0012 m
+Latitude:	03° 52' 38.802468''S ± 0.0009 m
+Longitude:	38°25'32.205424''W±0.0011m
+
+V-North:	0.0033 ± 0.0014 m/a
+V-East:	0.0124 ± 0.0012 m/a
+V-Up:	-0.0034 ± 0.0012 m/a
+
+Solution:	
+Reference epoch:	
+Period:	2023-10-18 - 2023-10-18
+
+Geocentric values
+X:	
+Y:	
+Z:	
+
+Vx:	
+Vy:	
+Vz:	
+
+Ellipsoidal values
+Height:	
+Latitude:	
+Longitude:	
+
+V-North:	
+V-East:	
+V-Up:	
+
+For weekly coordinates please click here.
+Click on the image for enlarge it.
+
+Station:	CEFT
+Status:	active
+Long name:	CEFT00BRA
+Location:	Fortaleza - Porto, Brazil
+Networks:	RBMC
+Agencies:	IBGE
+Installed on:	2008-08-13
+In SIRGAS since:	2010-04-25
+Website:	https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/rede-geodesica/16258-rede-brasileira-de-monitoramento-continuo-dos-sistemas-gnss-rbmc.html?=&t=dados-diarios-e-situacao-operacional
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2011-04-17 - 2012-08-18
+
+Geocentric values
+X:	4983062.7222 ± 0.0008 m
+Y:	-3959862.9399 ± 0.0007 m
+Z:	-410039.3948 ± 0.0003 m
+
+Vx:	-0.0026 ± 0.0008 m/a
+Vy:	-0.0024 ± 0.0008 m/a
+Vz:	0.0144 ± 0.0003 m/a
+
+Ellipsoidal values
+Height:	4.8946 ± 0.0016 m
+Latitude:	3° 42' 38.91600'' S ± 0.0009 m
+Longitude:	38°28'22.50588''W±0.0017m
+
+V-North:	0.0144 ± 0.0007 m/a
+V-East:	-0.0035 ± 0.0011 m/a
+V-Up:	-0.0015 ± 0.0007 m/a
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2012-09-23 - 2014-10-25
+
+Geocentric values
+X:	4983062.7324 ± 0.0014 m
+Y:	-3959862.9366 ± 0.0012 m
+Z:	-410039.3969 ± 0.0005 m
+
+Vx:	-0.0026 ± 0.0008 m/a
+Vy:	-0.0024 ± 0.0008 m/a
+Vz:	0.0144 ± 0.0003 m/a
+
+Ellipsoidal values
+Height:	4.9007 ± 0.0016 m
+Latitude:	3° 42' 38.91600'' S ± 0.0009 m
+Longitude:	38°28'22.50552''W± 0.0017 m
+
+V-North:	-0.0015 ± 0.0007 m/a
+V-East:	0.0144 ± 0.0007 m/a
+V-Up:	-0.0035 ± 0.0011 m/a
+
+For weekly coordinates please click here.
+Click on the image for enlarge it.
+
+Station:	SALV
+Status:	removed
+Long name:	SALV00BRA
+Location:	Salvador, Brazil
+Networks:	ITRF2014, RBMC
+Agencies:	IBGE, CONDER
+Installed on:	1999-05-20
+In SIRGAS since:	1999-12-04
+Website:	https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/rede-geodesica/16258-rede-brasileira-de-monitoramento-continuo-dos-sistemas-gnss-rbmc.html?=&t=dados-diarios-e-situacao-operacional
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR11P01
+Reference epoch:	2005
+Period:	2000-01-21 - 2008-09-05
+
+Geocentric values
+X:	4863495.7203 ± 0.0005 m
+Y:	-3870312.3592 ± 0.0003 m
+Z:	-1426347.7484 ± 0.0003 m
+
+Vx:	0.0023 ± 0.0003 m/a
+Vy:	-0.0050 ± 0.0003 m/a
+Vz:	0.0111 ± 0.0003 m/a
+
+Ellipsoidal values
+Height:	35.7392 ± 0.0008 m
+Latitude:	13° 00' 31.209590''S ± 0.0004 m
+Longitude:	38°30'44.493285''W±0.0006m
+
+V-North:	0.0023 ± 0.0008 m/a
+V-East:	0.0119 ± 0.0007 m/a
+V-Up:	-0.0025 ± 0.0006 m/a
+
+Solution:	
+Reference epoch:	
+Period:	2023-10-18 - 2023-10-18
+
+Geocentric values
+X:	
+Y:	
+Z:	
+
+Vx:	
+Vy:	
+Vz:	
+
+Ellipsoidal values
+Height:	
+Latitude:	
+Longitude:	
+
+V-North:	
+V-East:	
+V-Up:	
+
+For weekly coordinates please click here.
+Click on the image for enlarge it.
+
+Station:	SSA1
+Status:	active
+Long name:	SSA100BRA
+Location:	Salvador Capitania, Brazil
+Networks:	ITRF2014, RBMC, TIGA
+Agencies:	IBGE
+Installed on:	2007-05-04
+In SIRGAS since:	2007-09-02
+Website:	https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/rede-geodesica/16258-rede-brasileira-de-monitoramento-continuo-dos-sistemas-gnss-rbmc.html?=&t=dados-diarios-e-situacao-operacional
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2011-04-17 - 2012-10-02
+
+Geocentric values
+X:	4863840.3030 ± 0.0007 m
+Y:	-3871158.6696 ± 0.0006 m
+Z:	-1422726.6033 ± 0.0004 m
+
+Vx:	-0.0020 ± 0.0008 m/a
+Vy:	-0.0034 ± 0.0008 m/a
+Vz:	0.0126 ± 0.0003 m/a
+
+Ellipsoidal values
+Height:	-2.1088 ± 0.0013 m
+Latitude:	12° 58' 30.56340'' S ± 0.0008 m
+Longitude:	38°30'59.34672''W±0.0017m
+
+V-North:	0.0124 ± 0.0008 m/a
+V-East:	-0.0039 ± 0.0011 m/a
+V-Up:	-0.0023 ± 0.0006 m/a
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2012-10-21 - 2015-05-30
+
+Geocentric values
+X:	4863840.3113 ± 0.0014 m
+Y:	-3871158.6726 ± 0.0011 m
+Z:	-1422726.6105 ± 0.0007 m
+
+Vx:	-0.0020 ± 0.0008 m/a
+Vy:	-0.0034 ± 0.0008 m/a
+Vz:	0.0126 ± 0.0003 m/a
+
+Ellipsoidal values
+Height:	-2.0991 ± 0.0013 m
+Latitude:	12° 58' 30.56376'' S ± 0.0008 m
+Longitude:	38°30'59.34672''W± 0.0017 m
+
+V-North:	-0.0023 ± 0.0006 m/a
+V-East:	0.0124 ± 0.0008 m/a
+V-Up:	-0.0039 ± 0.0011 m/a
+
+
+tation:	UBAT
+Status:	removed
+Long name:	UBAT00BRA
+Location:	Ubatuba, Brazil
+Networks:	RBMC
+Agencies:	IBGE, IO/USP
+Installed on:	2000-08-17
+In SIRGAS since:	2006-01-01
+Website:	https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/rede-geodesica/16258-rede-brasileira-de-monitoramento-continuo-dos-sistemas-gnss-rbmc.html?=&t=dados-diarios-e-situacao-operacional
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR11P01
+Reference epoch:	2005
+Period:	2008-04-14 - 2009-09-06
+
+Geocentric values
+X:	4129567.7300 ± 0.0039 m
+Y:	-4146742.9346 ± 0.0060 m
+Z:	-2527616.4408 ± 0.0032 m
+
+Vx:	0.0005 ± 0.0011 m/a
+Vy:	-0.0087 ± 0.0011 m/a
+Vz:	0.0116 ± 0.0007 m/a
+
+Ellipsoidal values
+Height:	6.0708 ± 0.0066 m
+Latitude:	23° 30' 0.635437''S ± 0.0035 m
+Longitude:	45°7'8.045212''W±0.0037m
+
+V-North:	0.0013 ± 0.0026 m/a
+V-East:	0.0132 ± 0.0015 m/a
+V-Up:	-0.0058 ± 0.0018 m/a
+
+Solution:	SIR11P01
+Reference epoch:	2005
+Period:	2006-01-02 - 2008-04-11
+
+Geocentric values
+X:	4129567.6806 ± 0.0039 m
+Y:	-4146742.9555 ± 0.0050 m
+Z:	-2527616.4326 ± 0.0032 m
+
+Vx:	0.0051 ± 0.0007 m/a
+Vy:	-0.0083 ± 0.0007 m/a
+Vz:	0.0086 ± 0.0004 m/a
+
+Ellipsoidal values
+Height:	6.0492 ± 0.0055 m
+Latitude:	23° 30' 0.635452''S ± 0.0035 m
+Longitude:	45°07'8.046967''W ± 0.0037 m
+
+V-North:	-0.0022 ± 0.0018 m/a
+V-East:	0.0053 ± 0.0024 m/a
+V-Up:	0.0117 ± 0.0015 m/a
+
+For weekly coordinates please click here.
+Click on the image for enlarge it.
+
+Station:	SJSP
+Status:	active
+Long name:	SJSP00BRA
+Location:	Sao Jose dos Campos, Brazil
+Networks:	RBMC
+Agencies:	IBGE, INPE
+Installed on:	2013-04-29
+In SIRGAS since:	2014-06-15
+Website:	https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/rede-geodesica/16258-rede-brasileira-de-monitoramento-continuo-dos-sistemas-gnss-rbmc.html?=&t=dados-diarios-e-situacao-operacional
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2014-06-01 - 2017-01-28
+
+Geocentric values
+X:	4084802.4283 ± 0.0030 m
+Y:	-4209560.4775 ± 0.0035 m
+Z:	-2498056.7824 ± 0.0028 m
+
+Vx:	-0.0021 ± 0.0008 m/a
+Vy:	-0.0034 ± 0.0011 m/a
+Vz:	0.0125 ± 0.0008 m/a
+
+Ellipsoidal values
+Height:	605.0675 ± 0.0025 m
+Latitude:	23° 12' 25.67088'' S ± 0.0014 m
+Longitude:	45°51'42.25824''W±0.002m
+
+V-North:	0.0119 ± 0.0010 m/a
+V-East:	-0.0039 ± 0.0013 m/a
+V-Up:	-0.0041 ± 0.0010 m/a
+
+Solution:	
+Reference epoch:	
+Period:	2023-10-18 - 2023-10-18
+
+Geocentric values
+X:	
+Y:	
+Z:	
+
+Vx:	
+Vy:	
+Vz:	
+
+Ellipsoidal values
+Height:	
+Latitude:	
+Longitude:	
+
+V-North:	
+V-East:	
+V-Up:	
+
+For weekly coordinates please click here.
+Click on the image for enlarge it.
+
+Station:	NEIA
+Status:	active
+Long name:	NEIA00BRA
+Location:	Cananeia, Brazil
+Networks:	ITRF2014, RBMC
+Agencies:	IBGE, IO/USP
+Installed on:	2002-01-11
+In SIRGAS since:	2006-01-01
+Website:	https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/rede-geodesica/16258-rede-brasileira-de-monitoramento-continuo-dos-sistemas-gnss-rbmc.html?=&t=dados-diarios-e-situacao-operacional
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2011-04-17 - 2012-07-28
+
+Geocentric values
+X:	3875254.9893 ± 0.0004 m
+Y:	-4292588.7925 ± 0.0005 m
+Z:	-2681108.6026 ± 0.0005 m
+
+Vx:	-0.0013 ± 0.0005 m/a
+Vy:	-0.0034 ± 0.0005 m/a
+Vz:	0.0127 ± 0.0003 m/a
+
+Ellipsoidal values
+Height:	6.0592 ± 0.0016 m
+Latitude:	25° 1' 12.85536'' S ± 0.0009 m
+Longitude:	47°55'29.8884''W±0.0011m
+
+V-North:	0.0122 ± 0.0007 m/a
+V-East:	-0.0033 ± 0.0007 m/a
+V-Up:	-0.0039 ± 0.0007 m/a
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2012-09-02 - 2016-10-15
+
+Geocentric values
+X:	3875254.9683 ± 0.0009 m
+Y:	-4292588.7711 ± 0.0010 m
+Z:	-2681108.5852 ± 0.0009 m
+
+Vx:	-0.0013 ± 0.0005 m/a
+Vy:	-0.0034 ± 0.0005 m/a
+Vz:	0.0127 ± 0.0003 m/a
+
+Ellipsoidal values
+Height:	6.0246 ± 0.0016 m
+Latitude:	25° 1' 12.85536'' S ± 0.0009 m
+Longitude:	47°55'29.8884''W± 0.0011 m
+
+V-North:	-0.0039 ± 0.0007 m/a
+V-East:	0.0122 ± 0.0007 m/a
+V-Up:	-0.0033 ± 0.0007 m/a
+
+For weekly coordinates please click here.
+Click on the image for enlarge it.
+
+Station:	SCIM
+Status:	active
+Long name:	SCIM00BRA
+Location:	Imbituba, Brazil
+Networks:	RBMC
+Agencies:	IBGE
+Installed on:	2023-10-18
+In SIRGAS since:	2023-10-18
+Website:	
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	
+Reference epoch:	
+Period:	2023-10-18 - 2023-10-18
+
+Geocentric values
+X:	
+Y:	
+Z:	
+
+Vx:	
+Vy:	
+Vz:	
+
+Ellipsoidal values
+Height:	
+Latitude:	
+Longitude:	
+
+V-North:	
+V-East:	
+V-Up:	
+
+Solution:	
+Reference epoch:	
+Period:	2023-10-18 - 2023-10-18
+
+Geocentric values
+X:	
+Y:	
+Z:	
+
+Vx:	
+Vy:	
+Vz:	
+
+Ellipsoidal values
+Height:	
+Latitude:	
+Longitude:	
+
+V-North:	
+V-East:	
+V-Up:	
+
+For weekly coordinates please click here.
+Click on the image for enlarge it.
+
+Station:	SCLA
+Status:	active
+Long name:	SCLA00BRA
+Location:	Lages, Brazil
+Networks:	RBMC
+Agencies:	IBGE, INCRA
+Installed on:	2007-08-17
+In SIRGAS since:	2008-05-05
+Website:	https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/rede-geodesica/16258-rede-brasileira-de-monitoramento-continuo-dos-sistemas-gnss-rbmc.html?=&t=dados-diarios-e-situacao-operacional
+Coordinates and velocities:
+Time series for this station presents discontinuities or trend changes.
+Therefore, coordinates and velocities are clasified in different periods
+
+Solution:	SIR17P01
+Reference epoch:	2015.0
+Period:	2012-01-29 - 2017-01-28
+
+Geocentric values
+X:	3606986.0532 ± 0.0006 m
+Y:	-4345293.3096 ± 0.0007 m
+Z:	-2956654.0357 ± 0.0007 m
+
+Vx:	0.0012 ± 0.0003 m/a
+Vy:	-0.0055 ± 0.0004 m/a
+Vz:	0.0111 ± 0.0003 m/a
+
+Ellipsoidal values
+Height:	940.6788 ± 0.0016 m
+Latitude:	27° 47' 34.20276'' S ± 0.0009 m
+Longitude:	50°18'15.34248''W±0.0008m
+
+V-North:	0.0121 ± 0.0006 m/a
+V-East:	-0.0026 ± 0.0005 m/a
+V-Up:	-0.0008 ± 0.0007 m/a
+
+Solution:	
+Reference epoch:	
+Period:	2023-10-18 - 2023-10-18
+
+Geocentric values
+X:	
+Y:	
+Z:	
+
+Vx:	
+Vy:	
+Vz:	
+
+Ellipsoidal values
+Height:	
+Latitude:	
+Longitude:	
+
+V-North:	
+V-East:	
+V-Up:	
+
+For weekly coordinates please click here.
+Click on the image for enlarge it.
